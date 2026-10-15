@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: MoonGear
+## Notes: Gear comparison for WoW Forever
+## Author: Candyblk95
+## Version: 0.1.0-alpha
+## SavedVariablesPerCharacter: MoonGearDB
+Core.lua
+Weights.lua
+Tooltips.lua
